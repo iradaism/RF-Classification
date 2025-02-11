@@ -86,7 +86,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![png](./res/output_8_0.png)
     
 
 
@@ -124,7 +124,7 @@ plt.show()
 
 
     
-![png](output_11_0.png)
+![png](./res/output_11_0.png)
     
 
 
@@ -178,7 +178,7 @@ plt.show()
 
 
     
-![png](output_16_0.png)
+![png](./res/output_16_0.png)
     
 
 
@@ -285,7 +285,7 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](./res/output_27_0.png)
     
 
 
