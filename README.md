@@ -138,13 +138,6 @@ Training data is a point shapefile that has one column called "class". This colu
 points = gpd.read_file('C:/Users/ismayiir/Desktop/R_Github/Python/TrainingData_Wuerz.shp')
 ```
 
-
-```python
-# Load the point shapefile
-points = gpd.read_file('C:/Users/ismayiir/Desktop/R_Github/Python/TrainingData_Wuerz.shp')
-```
-
-
 ```python
 print(points.head())
 ```
