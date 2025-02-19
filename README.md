@@ -20,7 +20,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, precision_score, r
 from sklearn.model_selection import RandomizedSearchCV, train_test_split
 ```
 
-### To classifica green/non-green areas we will use a single data NDVI dataset created using Sentinel-2 datasets from July 2021.
+### To classify green/non-green areas we will use a single data NDVI dataset created using Sentinel-2 datasets from July 2021.
 
 Therefore, we will first read in the NDVI dataset with the rasterio, we will then check how the data structure looks like, minmum and maximum values as well as plot the dataset.
 
